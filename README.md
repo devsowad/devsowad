@@ -7,15 +7,13 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=laravel)
+- 🌐 &nbsp; ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vuejs' height='40'>)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg' alt='vuejs' height='40'>](https://github.com/jeferson0993/crud-vuejs-firebase)
+  ![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vue.js)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Tailwind CSS](https://img.shields.io/badge/Vue-333333?style=flat&logo=tailwindcss)
 - 🛢 &nbsp;
