@@ -7,15 +7,17 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp; ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+- 🌐 &nbsp; ![Laravel](https://img.shields.io/badge/-Laravel-333333??style=for-the-badge&logo=laravel)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/Nuxt.js-333333?style=flat&logo=nuxt.js)
   ![Vue](https://img.shields.io/badge/Vue-333333?style=flat&logo=vue.js)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwind CSS](https://img.shields.io/badge/Vue-333333?style=flat&logo=tailwindcss)
+  ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-333333?style=flat&logo=tailwindcss)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
